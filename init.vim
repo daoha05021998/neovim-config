@@ -41,6 +41,8 @@ Plug 'voldikss/vim-floaterm'
 call plug#end()
 
 source ~/AppData/Local/nvim/themes/onedark.vim
+syntax on
+colorscheme onedark
 "source ~/AppData/Local/nvim/themes/gruvbox.vim
 "source ~/AppData/Local/nvim/themes/oceanic-next.vim
 source ~/AppData/Local/nvim/themes/lightline.vim

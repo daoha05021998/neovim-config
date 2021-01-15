@@ -3,8 +3,9 @@ let g:onedark_hide_endofbuffer=1
 let g:onedark_terminal_italics=1
 let g:onedark_termcolors=256
 
-syntax on
-colorscheme onedark
+"syntax on
+"colorscheme onedark
+
 "hi Error guibg=Red guifg=White ctermfg=White ctermbg=Red
 "hi ErrorMsg ctermfg=Blue guifg=Blue
 " checks if your terminal has 24-bit color support
